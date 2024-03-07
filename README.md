@@ -23,7 +23,7 @@ The *Image Transition* is a web application that provides a visually appealing t
    - The project is configured to use a JPEG background when the slider is on the left side and a PNG background when on the right side.
 
 ## Live Demo 🌐
-Check out the live demo: [Image Transition Demo](#) <!-- Add your live demo link -->
+Check out the live demo: [Image Transition Demo](https://image-background-change-effect-red.vercel.app) <!-- Add your live demo link -->
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/your-username/image-transition.git`
